@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pasindi Alawatta</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Data Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindi15&label=Profile%20views&color=0e75b6&style=flat" alt="pasindi15" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Flask**
 
-- 👯 I’m looking to collaborate on **Java Project**
+- 👯 I’m looking to collaborate on **Software Development Project**
 
-- 💬 Ask me about **C, C#, C++, Java**
+- 💬 Ask me about **Mern, Python, C++, Java**
 
 - 📫 How to reach me **pasindialawatta@gmail.com**
 
