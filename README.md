@@ -176,7 +176,7 @@ class PasindiAlawatta:
 ## 🤝 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/pasindi-alawatta" target="_blank">
+  <a href="https://www.linkedin.com/in/pasindi-alawatta-489781217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pasindialawatta@gmail.com">
