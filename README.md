@@ -49,7 +49,7 @@
 **DevOps:** Docker, ClamAV, uvicorn  
 **Coming Soon:** LangChain, ChromaDB, Groq API, RAG Pipeline
 
-[🔗 View Project](https://github.com/pasindi15/braino)
+Private Repository - Contact for Access! 🔒
 
 ---
 
