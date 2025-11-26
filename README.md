@@ -218,7 +218,26 @@ BRAINO_STATUS = {
 - 🌐 **7 REST APIs** - Production-ready endpoints
 - 📊 **10 Database Tables** - Optimized schema with triggers
 
-Private Repository - Contact for Demo! 🔒
+### 🔐 Project Access
+
+**BRAINO is a private repository showcasing my technical capabilities.**
+
+<div align="center">
+
+**📊 Want to See the Code?**
+
+I'm happy to provide:
+- 📁 **Full code walkthrough** for potential employers
+- 🎥 **Live demo** of all features
+- 📖 **Architecture documentation** review
+- 💬 **Technical deep-dive** session
+
+**📧 Contact me:** pasindialawatta@gmail.com  
+**💼 LinkedIn:** [Pasindi Alawatta](https://www.linkedin.com/in/pasindi-alawatta-489781217/)
+
+*Available for technical interviews, code reviews, and project discussions!*
+
+</div>
 
 ---
 
@@ -374,12 +393,24 @@ Vector DBs 📊      ███████████░░░░░░░░�
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindi15&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/pasindi15)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasindi15&theme=tokyonight&hide_border=true)](https://github.com/pasindi15)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/pasindi15)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+**📊 Quick Stats**
+
+![](https://img.shields.io/badge/Total_Commits-500+-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Projects-15+-green?style=for-the-badge)
+![](https://img.shields.io/badge/Languages-8+-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Contributions-Active-success?style=for-the-badge)
+
 </div>
 
 ---
@@ -634,7 +665,6 @@ Week 11+  [░░░░░░░░░░░░░░░░░░░░] Fronten
 <div align="center">
   <sub>
     Built with ❤️ by Pasi | 
-    <a href="https://github.com/pasindi15/braino">View BRAINO Project</a> | 
     Last Updated: November 2024
   </sub>
 </div>
