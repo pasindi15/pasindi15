@@ -302,114 +302,92 @@ I'm happy to provide:
 
 ### 🛠️ Tech Stack
 
-<details>
-<summary><b>Languages & Frameworks</b> (Click to expand)</summary>
+**Languages & Frameworks:**
 
-**Expert Level:**
-```
-Python 🐍          ████████████████████ 100%
-FastAPI ⚡         ████████████████████ 100%
-PostgreSQL 🐘      ███████████████████░  95%
-Docker 🐳          ██████████████████░░  90%
-Git 🔀             ████████████████████ 100%
-```
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-**Advanced Level:**
-```
-TypeScript 💙      ████████████████░░░░  80%
-Next.js 14 ⚛️      ███████████████░░░░░  75%
-Redis 🔴           ███████████████░░░░░  75%
-React ⚛️           ███████████████░░░░░  75%
-Node.js 🟢         ██████████████░░░░░░  70%
-```
+**Databases & Infrastructure:**
 
-**Learning & Growing:**
-```
-LangChain 🦜       ████████████░░░░░░░░  60%
-ChromaDB 🎨        ████████████░░░░░░░░  60%
-Groq API 🚀        ███████████░░░░░░░░░  55%
-Vector DBs 📊      ███████████░░░░░░░░░  55%
-```
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Advanced-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</details>
+**AI & ML:**
 
-<details>
-<summary><b>AI & ML Stack</b> (Click to expand)</summary>
+![LangChain](https://img.shields.io/badge/LangChain-Learning-121212?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Advanced-FF6B6B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Expert-4A90E2?style=for-the-badge)
+![Vector_DBs](https://img.shields.io/badge/Vector_DBs-Advanced-FF9500?style=for-the-badge)
 
-**Current Expertise:**
-- **LLM Integration:** Groq API (Llama 3.1 70B), GPT-4 API ready
-- **Embeddings:** sentence-transformers (all-MiniLM-L6-v2)
-- **Vector DB:** ChromaDB with semantic search
-- **RAG Pipeline:** Custom implementation with citations
-- **NLP:** Intent classification, entity extraction, follow-up detection
-- **Frameworks:** LangChain (learning), custom implementations
+---
 
-**Key Projects:**
-- Built production RAG system with <2s response time
-- Implemented conversation memory with 95% follow-up accuracy
-- Created entity extraction system (dates, money, emails)
-- Designed intent classification (6 types, <10ms)
-
-</details>
-
-<details>
-<summary><b>Backend & Infrastructure</b> (Click to expand)</summary>
-
-**Backend:**
-- **API Development:** FastAPI, Express.js, Flask
-- **Databases:** PostgreSQL, Supabase, Redis, MongoDB
-- **Authentication:** JWT, bcrypt, OAuth2 (ready)
-- **Security:** Row-Level Security, input validation, virus scanning
-- **Testing:** pytest, comprehensive test suites
-
-**Infrastructure:**
-- **Containerization:** Docker, docker-compose
-- **Deployment:** Vercel, Railway, Render (free tiers)
-- **CI/CD:** GitHub Actions (ready)
-- **Monitoring:** Logging, health checks, error tracking
-- **Storage:** Supabase Storage, cloud-ready
-
-</details>
-
-<details>
-<summary><b>Frontend & UI</b> (Click to expand)</summary>
-
-**Technologies:**
-- **Framework:** Next.js 14 (App Router)
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS
-- **Components:** shadcn/ui, custom components
-- **State Management:** React hooks, context API
-- **Forms:** React Hook Form, validation
-
-**Capabilities:**
-- Real-time conversation interfaces
-- Document management UIs
-- Admin panels and dashboards
-- Responsive design (mobile-first)
-
-</details>
-
-### 📈 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/pasindi15)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasindi15&theme=tokyonight&hide_border=true)](https://github.com/pasindi15)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/pasindi15)
-
-</div>
+## 📊 GitHub Activity & Contributions
 
 <div align="center">
 
-**📊 Quick Stats**
+### 📈 Contribution Stats
 
-![](https://img.shields.io/badge/Total_Commits-500+-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Projects-15+-green?style=for-the-badge)
-![](https://img.shields.io/badge/Languages-8+-orange?style=for-the-badge)
-![](https://img.shields.io/badge/Contributions-Active-success?style=for-the-badge)
+<table>
+<tr>
+<td align="center">
+<strong>🔥 Streak</strong><br/>
+<img src="https://img.shields.io/badge/Current-25+%20Days-success?style=for-the-badge" /><br/>
+Active daily contributor
+</td>
+<td align="center">
+<strong>💻 Commits</strong><br/>
+<img src="https://img.shields.io/badge/Total-500+-blue?style=for-the-badge" /><br/>
+Consistent contributions
+</td>
+<td align="center">
+<strong>📦 Projects</strong><br/>
+<img src="https://img.shields.io/badge/Active-15+-green?style=for-the-badge" /><br/>
+Diverse portfolio
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>⭐ Stars Earned</strong><br/>
+<img src="https://img.shields.io/badge/Total-50+-yellow?style=for-the-badge" /><br/>
+Community recognition
+</td>
+<td align="center">
+<strong>🔧 Languages</strong><br/>
+<img src="https://img.shields.io/badge/Count-8+-orange?style=for-the-badge" /><br/>
+Polyglot developer
+</td>
+<td align="center">
+<strong>📈 Activity</strong><br/>
+<img src="https://img.shields.io/badge/Status-Very%20Active-brightgreen?style=for-the-badge" /><br/>
+Daily commits
+</td>
+</tr>
+</table>
+
+### 💻 Primary Languages
+
+```
+Python          ████████████████████ 45%  (AI/Backend)
+TypeScript      ████████████░░░░░░░░ 25%  (Frontend)
+SQL             ████████░░░░░░░░░░░░ 15%  (Database)
+JavaScript      ████░░░░░░░░░░░░░░░░ 10%  (Web Dev)
+Other           ██░░░░░░░░░░░░░░░░░░  5%  (C++, Java)
+```
+
+### 🏆 2024-2025 Highlights
+
+![](https://img.shields.io/badge/BRAINO-33%25%20Complete-success?style=flat-square)
+![](https://img.shields.io/badge/RAG_System-Production_Ready-blue?style=flat-square)
+![](https://img.shields.io/badge/Conversation_AI-Implemented-orange?style=flat-square)
+![](https://img.shields.io/badge/API_Endpoints-25+-green?style=flat-square)
+![](https://img.shields.io/badge/Database_Tables-10+-purple?style=flat-square)
+![](https://img.shields.io/badge/Documentation-12K+_Lines-red?style=flat-square)
+![](https://img.shields.io/badge/Test_Coverage-Comprehensive-yellow?style=flat-square)
+![](https://img.shields.io/badge/Infrastructure_Cost-%240-brightgreen?style=flat-square)
 
 </div>
 
@@ -494,43 +472,6 @@ class CareerJourney2025:
 - Entity extraction (dates, money, emails, percentages)
 - Intent classification (<10ms response time)
 - Multi-tenant architecture with workspace isolation
-
-### 🔐 Secure File Upload System (Week 1-2)
-**Tech:** FastAPI, ClamAV, Supabase Storage, Docker
-
-- Real-time virus scanning with ClamAV
-- Multi-format support (PDF, DOCX, CSV, Excel)
-- Secure file validation (MIME type + signature)
-- Pre-signed URLs with expiration
-- Complete audit logging
-- Built in 3 days
-
-### 📄 Document Intelligence Pipeline (Week 2-3)
-**Tech:** PyMuPDF, python-docx, pandas, Tesseract OCR
-
-- Multi-format parsing (PDF, DOCX, CSV, Excel, Markdown)
-- OCR for scanned documents
-- Table extraction and processing
-- Smart text chunking with semantic boundaries
-- 500-1000 token chunks with overlap
-
-### 🔍 Semantic Search Engine (Week 4-5)
-**Tech:** ChromaDB, sentence-transformers, PostgreSQL
-
-- Local embeddings generation (all-MiniLM-L6-v2)
-- Vector database with ChromaDB
-- Hybrid search (vector + keyword)
-- Sub-100ms search performance
-- Relevance scoring and ranking
-
-### 🤖 RAG Pipeline with Citations (Week 5-6)
-**Tech:** Groq API, Llama 3.1 70B
-
-- Context injection with top-K retrieval
-- Automatic source citation extraction
-- Confidence scoring
-- Response streaming
-- Rate limiting (14,400 free queries/day)
 
 ---
 
