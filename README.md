@@ -797,9 +797,9 @@ Week 11+  [░░░░░░░░░░░░░░░░░░░░] Admin P
 ## 🎓 Education & Certifications
 
 ### **Bachelor of Science in Information Technology**
-- **University:** [Your University]
-- **Graduation:** [Year]
-- **Focus:** Software Engineering, AI/ML, Data Science
+- **University:** Sri Lanka Institute Of Information Technology
+- **Graduation:** 2027
+- **Focus:** AI Engineering, AI/ML, Data Science
 
 ### **Self-Taught Expertise**
 - Advanced RAG Systems & Vector Databases
