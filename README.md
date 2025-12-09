@@ -18,13 +18,13 @@
 
 > **Architecting commercial-grade AI systems** with enterprise security, financial intelligence, compliance monitoring, and real-time conversational AI
 
-- 🧠 **Currently Building:** [BRAINO](https://braino-xi.vercel.app) - Enterprise AI Business Operations Manager (**Parts 1-21/30 Complete**)
+- 🧠 **Currently Building:** [BRAINO] - Enterprise AI Business Operations Manager (**Parts 1-21/30 Complete**)
 - 🎯 **Latest Milestone:** **Part 21/30** - Financial Intelligence Engine with transactions, budgets, forecasting & anomaly detection
 - 💼 **Specializing in:** Production RAG Systems, Financial AI, Compliance Monitoring, Real-Time Chat, Vector Databases
 - 🔭 **Tech Stack:** FastAPI, Groq API (Llama 3.3 70B), ChromaDB, PostgreSQL, Next.js 14, TypeScript, Recharts
 - 🌱 **Mastering:** Advanced RAG, Financial Intelligence, Compliance Systems, Cash Flow Forecasting, Anomaly Detection
 - 💡 **Achievement:** Built & deployed production AI with **Financial Intelligence + Compliance** in 8 weeks
-- 🌐 **Live Demo:** [braino-xi.vercel.app](https://braino-xi.vercel.app) | Backend: [Railway](https://braino-production.up.railway.app)
+- 🌐 **Live Demo:** Not launched Yet [If you want to see the Demo DM please]| Backend: [Railway](https://braino-production.up.railway.app)
 - 👯 **Open to:** Senior AI/ML Engineer, Full-Stack Engineer, Technical Architect roles
 - 💬 **Ask me about:** RAG Systems, Financial AI, LLM Integration, Enterprise Architecture, Real-Time Systems
 - 📫 **Contact:** pasindialawatta@gmail.com
