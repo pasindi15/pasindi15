@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindi Alawatta</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Mobile App Developer</h3>
+<h3 align="center">Aspiring AI Engineer | Full-Stack Developer | Mobile App Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pasindi15&label=Profile%20views&color=a855f7&style=for-the-badge" alt="pasindi15" />
@@ -741,14 +741,6 @@ University first year, 2nd semester group project demonstrating foundational web
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pasindi15&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
