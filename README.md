@@ -1,45 +1,48 @@
 <h1 align="center">Hi 👋, I'm Pasindi Alawatta</h1>
-<h3 align="center"> AI Engineer | Full-Stack Developer </h3>
+<h3 align="center">AI Engineer | Full-Stack Developer | Mobile App Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pasindi15&label=Profile%20views&color=a855f7&style=for-the-badge" alt="pasindi15" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise%20AI%20%26%20Financial%20Intelligence-brightgreen?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/badge/BRAINO-70.00%25%20Complete-blue?style=for-the-badge" alt="status" />
-  <img src="https://img.shields.io/badge/Production-Live%20on%20Railway%20%26%20Vercel-success?style=for-the-badge" alt="production" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20AI%20%26%20Full--Stack%20Development-brightgreen?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Projects-10%2B%20Completed-blue?style=for-the-badge" alt="projects" />
+  <img src="https://img.shields.io/badge/BRAINO-70%25%20Complete-success?style=for-the-badge" alt="braino" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems;RAG+%2B+LLM+%2B+Vector+Databases;Financial+Intelligence+%2B+Compliance+Monitoring;20%2C000%2B+Lines+in+8+Weeks;Enterprise+Security+%2B+Real-Time+Chat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Enterprise+AI+Systems+Engineer;Full-Stack+Web+%26+Mobile+Developer;RAG+%2B+LLM+%2B+Vector+Databases;MERN+%7C+React+%7C+Next.js+%7C+Flask;Android+%7C+Kotlin+%7C+Java;UI%2FUX+Designer+%7C+Figma;Building+Production-Grade+Solutions" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-> **Architecting commercial-grade AI systems** with enterprise security, financial intelligence, compliance monitoring, and real-time conversational AI
+> **Building enterprise-grade solutions** across AI systems, full-stack web applications, and mobile platforms
 
-- 🧠 **Currently Building:** [BRAINO] - Enterprise AI Business Operations Manager (**Parts 1-21/30 Complete**)
-- 🎯 **Latest Milestone:** **Part 21/30** - Financial Intelligence Engine with transactions, budgets, forecasting & anomaly detection
-- 💼 **Specializing in:** Production RAG Systems, Financial AI, Compliance Monitoring, Real-Time Chat, Vector Databases
-- 🔭 **Tech Stack:** FastAPI, Groq API (Llama 3.3 70B), ChromaDB, PostgreSQL, Next.js 14, TypeScript, Recharts
-- 🌱 **Mastering:** Advanced RAG, Financial Intelligence, Compliance Systems, Cash Flow Forecasting, Anomaly Detection
-- 💡 **Achievement:** Built & deployed production AI with **Financial Intelligence + Compliance** in 8 weeks
-- 🌐 **Live Demo:** Not launched Yet [If you want to see the Demo DM please]| Backend: [Railway](https://braino-production.up.railway.app)
-- 👯 **Open to:** Senior AI/ML Engineer, Full-Stack Engineer, Technical Architect roles
-- 💬 **Ask me about:** RAG Systems, Financial AI, LLM Integration, Enterprise Architecture, Real-Time Systems
+- 🧠 **Currently Building:** [BRAINO](https://github.com/pasindi15/braino) - Enterprise AI Business Operations Manager (70% Complete)
+- 🎯 **Latest Achievement:** Financial Intelligence Engine with AI-powered anomaly detection & cash flow forecasting
+- 💼 **Specializing in:** 
+  - **AI/ML:** RAG Systems, LLM Integration, Vector Databases, Financial AI
+  - **Full-Stack:** MERN, React, Next.js, Flask, FastAPI, Node.js
+  - **Mobile:** Android (Kotlin/Java), Material Design, Responsive UI
+  - **UI/UX:** Figma, User-Centered Design, Prototyping
+- 🔭 **Tech Arsenal:** Python, TypeScript, JavaScript, Kotlin, Java, SQL, MongoDB, PostgreSQL
+- 🌱 **Mastering:** Advanced RAG, Financial Intelligence, Compliance Systems, Enterprise Architecture
+- 💡 **Portfolio:** 10+ completed projects spanning AI, web, mobile, and design
+- 🌐 **Live Projects:** BRAINO (Production), SafeZone DMS, Travellers Platform, SkyWay, TripMate, Portfolio
+- 👯 **Open to:** Senior AI/ML Engineer, Full-Stack Engineer, Technical Architect, Mobile Developer roles
+- 💬 **Ask me about:** RAG Systems, MERN Stack, Android Development, System Architecture, UI/UX Design
 - 📫 **Contact:** pasindialawatta@gmail.com
-- ⚡ **Fun fact:** Call me **Pasi** | Built financial intelligence with AI anomaly detection from scratch!
+- ⚡ **Fun fact:** Built an enterprise AI system with 34,000+ lines of code in 8 weeks!
 
 ---
 
 ## 🏆 Featured Project: BRAINO - Enterprise AI Operations Manager
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Progress-70.00%25%20Complete-success?style=for-the-badge&logo=progress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Progress-70%25%20Complete-success?style=for-the-badge&logo=progress&logoColor=white" />
   <img src="https://img.shields.io/badge/Parts-21%2F30%20Done-blue?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Production%20Live-green?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Enterprise%20Grade-orange?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/New-Financial%20Intelligence-yellow?style=for-the-badge&logo=cashapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lines-34%2C500%2B-orange?style=for-the-badge&logo=code&logoColor=white" />
 </div>
 
 <br/>
@@ -49,7 +52,7 @@
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_BRAINO-a855f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
   <a href="https://braino-production.up.railway.app/docs" target="_blank">
-    <img src="https://img.shields.io/badge/📚_API_Docs-View_Swagger-blue?style=for-the-badge&logo=swagger&logoColor=white" alt="API Docs" />
+    <img src="https://img.shields.io/badge/📚_API_Docs-Swagger-blue?style=for-the-badge&logo=swagger&logoColor=white" alt="API Docs" />
   </a>
   <a href="https://github.com/pasindi15/braino" target="_blank">
     <img src="https://img.shields.io/badge/📦_GitHub-View_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -58,27 +61,27 @@
 
 ### 🎯 What is BRAINO?
 
-A **commercial-grade AI system** combining document intelligence, conversational AI, financial intelligence, and compliance monitoring:
+**Commercial-grade AI system** combining document intelligence, conversational AI, financial intelligence, and compliance monitoring - deployed in production on Railway & Vercel.
 
 <table>
 <tr>
 <td width="50%">
 
 #### 🤖 **AI & Intelligence**
-- 📄 Document Q&A with **exact citations**
-- 💬 Context-aware conversations with **10-message memory**
-- 🎯 Real-time streaming responses (**<200ms**)
-- 🔍 Hybrid search (**semantic + keyword**)
+- 📄 Document Q&A with exact citations
+- 💬 Context-aware conversations (10-msg memory)
+- 🎯 Real-time streaming (<200ms)
+- 🔍 Hybrid search (semantic + keyword)
 - 📊 95% follow-up detection accuracy
 
 </td>
 <td width="50%">
 
-#### 💰 **Financial Intelligence** ⭐ NEW
+#### 💰 **Financial Intelligence**
 - 💵 Transaction management (income/expense)
-- 📊 Budget tracking with **category breakdown**
-- 🔮 **90-day cash flow forecasting**
-- ⚠️ **AI-powered anomaly detection**
+- 📊 Budget tracking with category breakdown
+- 🔮 90-day cash flow forecasting
+- ⚠️ AI-powered anomaly detection
 - 📈 Revenue analysis & profit margins
 
 </td>
@@ -86,9 +89,9 @@ A **commercial-grade AI system** combining document intelligence, conversational
 <tr>
 <td width="50%">
 
-#### ✅ **Compliance Monitoring** ⭐ NEW
+#### ✅ **Compliance Monitoring**
 - 📋 Compliance rules management
-- 🎯 Items tracking with **status monitoring**
+- 🎯 Items tracking with status monitoring
 - 🚨 Real-time alerts & notifications
 - 📊 Compliance dashboard & reporting
 - 📅 Contract expiration tracking
@@ -97,7 +100,7 @@ A **commercial-grade AI system** combining document intelligence, conversational
 <td width="50%">
 
 #### 🔒 **Enterprise Security**
-- 🛡️ Multi-tenant architecture with **RLS**
+- 🛡️ Multi-tenant architecture with RLS
 - 🔐 JWT auth + automatic token refresh
 - 🔒 AES-128 data encryption
 - 📝 Comprehensive audit logging
@@ -107,273 +110,513 @@ A **commercial-grade AI system** combining document intelligence, conversational
 </tr>
 </table>
 
+### 💻 **Tech Stack**
+
+**Backend:** FastAPI (Python) | Groq API (Llama 3.3 70B) | PostgreSQL | ChromaDB | Redis | Celery  
+**Frontend:** Next.js 14 | TypeScript | Tailwind CSS | Recharts | Radix UI  
+**AI/ML:** RAG Pipeline | sentence-transformers | Vector Embeddings (384-dim)  
+**DevOps:** Railway | Vercel | Docker | Git
+
+### 📊 **Metrics**
+```
+Lines of Code: 34,500+ | API Endpoints: 100+ | Database Tables: 25+
+Search Speed: <100ms | RAG Response: <200ms | Dashboard Load: <500ms
+Citation Accuracy: 98% | Follow-up Detection: 95% | Workspace Isolation: 100%
+```
+
 ---
 
-## ✨ Latest Achievement: Part 21 - Financial Intelligence Engine 💰
+## 💼 Other Notable Projects
+
+### 🌊 **SafeZone DMS - Disaster Management System**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎉_Just_Completed-Financial_Intelligence_Engine-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lines_Added-3000%2B-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Components-5_New-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-MERN-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Full--Stack-orange?style=for-the-badge" />
 </div>
 
+**Full-stack disaster response coordination system** with real-time shelter management, victim tracking, donation coordination, and interactive mapping.
+
 <details>
-<summary><b>🚀 Complete Financial Intelligence System</b> (Click to expand)</summary>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
 
-### **What I Built:**
+#### **Core Features:**
+- 🗺️ **Interactive Maps:** Real-time shelter locations with Mapbox, user geolocation, evacuation routes
+- 🏠 **Shelter System:** Find nearest shelters, geospatial queries, CRUD operations
+- 👥 **Victim Management:** Registration, disaster reporting, aid requests, claim tracking
+- 💝 **Donation Dashboard:** Track donations, inventory, volunteers, distribution plans
+- 📊 **Admin & DMO Dashboards:** Alerts, reports, deployments, response team management
+- 🌤️ **Weather Broadcast:** Automated weather alerts for Sri Lanka via cron jobs
 
-#### 📊 **Financial Dashboard**
-- Real-time financial metrics (income, expenses, profit)
-- Cash runway projection (days until $0)
-- Budget utilization tracking
-- Revenue trend analysis
-- Top expense categories breakdown
+#### **Technical Stack:**
+- **Backend:** Node.js | Express.js | MongoDB | Mongoose
+- **Frontend:** React | Material-UI | Chakra UI | Mapbox
+- **Architecture:** RESTful API | MVC Pattern | Modular CSS Scoping
+- **Features:** Email notifications | Session management | Geospatial queries
 
-#### 💳 **Transaction Management**
-- Create income/expense transactions
-- Advanced filtering (date range, type, category)
-- Export to CSV for accounting
-- Bulk operations support
-- Tags and payment method tracking
+#### **Performance:**
+- Modular, conflict-free CSS architecture
+- Real-time weather updates
+- Geospatial search with MongoDB queries
+- Scalable RESTful API design
 
-#### 💼 **Budget Management**
-- Create monthly/quarterly/yearly budgets
-- Category-wise allocation
-- Real-time utilization tracking
-- Visual progress bars with color coding
-- Variance analysis (over/under budget)
-
-#### 🔮 **Cash Flow Forecasting**
-- AI-powered 90-day predictions
-- Historical data analysis
-- Income vs expense projections
-- Interactive Recharts visualizations
-- Confidence scoring (decreases over time)
-- Cash runway calculation
-
-#### ⚠️ **Anomaly Detection**
-- AI detects unusually high expenses
-- Severity classification (low/medium/high/critical)
-- Expected vs actual amount comparison
-- Review workflow with notes
-- Automatic alerts for critical anomalies
-
-### **Technical Stack:**
-```typescript
-// Backend
-- Financial Service: Python with advanced analytics
-- Anomaly Detection: Statistical analysis + AI
-- Forecasting: Time-series prediction algorithms
-- Database: PostgreSQL with 6 new tables
-
-// Frontend
-- React Components: 5 new financial components
-- Charts: Recharts (Area, Line, Bar charts)
-- Real-time Updates: Polling with refresh triggers
-- UI: Advanced dark theme (60% black, 30% white, 10% purple/yellow)
-```
-
-### **Performance Metrics:**
-```
-Dashboard Load: <500ms
-Transaction Creation: <200ms
-Forecast Generation: <2s (90 days)
-Anomaly Detection: Real-time
-Chart Rendering: <300ms
-```
-
-### **What Makes It Special:**
-- ✅ Production-ready financial intelligence
-- ✅ Beautiful, responsive UI with charts
-- ✅ AI-powered anomaly detection
-- ✅ Predictive cash flow forecasting
-- ✅ Export capabilities (CSV/PDF)
-- ✅ Comprehensive audit logging
+**Repository:** [GitHub - SafeZone DMS](https://github.com/pasindi15/SafeZone)
 
 </details>
 
 ---
 
-## 🏗️ Complete System Architecture (Parts 1-21)
+### ✈️ **Travellers Platform - Complete Travel Booking System**
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                       BRAINO ARCHITECTURE                            │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  Phase 1: Foundation (Parts 1-5) ✅                                 │
-│  ├─ Secure Auth (JWT + bcrypt + auto token refresh)                │
-│  ├─ File Upload (ClamAV virus scanning + type validation)          │
-│  ├─ Document Parsing (PDF, DOCX, CSV, MD, TXT)                     │
-│  ├─ Smart Chunking (semantic boundaries + deduplication)           │
-│  └─ Background Tasks (Celery + Redis queues)                       │
-│                                                                      │
-│  Phase 2: AI Core (Parts 6-10) ✅                                   │
-│  ├─ Local Embeddings (sentence-transformers, 384-dim)              │
-│  ├─ Vector Search (ChromaDB with hybrid search <100ms)             │
-│  ├─ RAG Pipeline (Groq API + Llama 3.3 70B streaming)             │
-│  ├─ Citation System (exact sources + page tracking)                │
-│  └─ Conversation Memory (10-msg context + follow-ups)              │
-│                                                                      │
-│  Phase 3: Enterprise (Parts 11-15) ✅                               │
-│  ├─ Security Hardening (7 headers + AES-128 encryption)            │
-│  ├─ High-Confidence Mode (industry-specific validation)            │
-│  ├─ Feedback System (corrections + quality metrics)                │
-│  ├─ Analytics Dashboard (usage stats + trends)                     │
-│  └─ Team Management (workspaces + RLS + permissions)               │
-│                                                                      │
-│  Phase 4: User Experience (Parts 16-18) ✅                          │
-│  ├─ Chat Interface (real-time streaming + dark theme)              │
-│  ├─ Document Stats (word/page count + analytics)                   │
-│  └─ Document Management (CRUD + metadata + search)                 │
-│                                                                      │
-│  Phase 5: Deployment (Parts 19-20) ✅                               │
-│  ├─ Slack Integration (slash commands + file uploads)              │
-│  └─ Production Deploy (Railway + Vercel + monitoring)              │
-│                                                                      │
-│  Phase 6: Business Intelligence (Parts 21+) ✅ IN PROGRESS         │
-│  ├─ Financial Intelligence (transactions + budgets) ⭐ NEW         │
-│  ├─ Cash Flow Forecasting (90-day AI predictions) ⭐ NEW          │
-│  ├─ Anomaly Detection (AI-powered alerts) ⭐ NEW                   │
-│  ├─ Compliance Monitoring (rules + alerts + reports) ⭐ NEW       │
-│  └─ Operational Analytics (Coming in Part 23) 🔜                   │
-│                                                                      │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Flask-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge" />
+</div>
+
+**Comprehensive travel booking platform** with flight bookings, hotel reservations, visa services, and secure payment processing.
+
+<details>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
+
+#### **Core Features:**
+- 🔐 **User Management:** Registration, authentication, profile management
+- 🌍 **Destination Discovery:** Browse and search travel destinations
+- ✈️ **Flight Booking:** Search and book flights with multiple airlines
+- 🏨 **Hotel Reservations:** Find and book accommodations
+- 🚗 **Transportation:** Ground transportation booking
+- 🛂 **Visa Services:** Visa requirement checking and application
+- 💳 **Payment Processing:** Secure payment handling with Stripe/PayPal
+- ⭐ **Reviews & Ratings:** User review system
+- 👨‍💼 **Admin Dashboard:** Comprehensive management panel
+
+#### **Technical Stack:**
+- **Backend:** Flask (Python) | SQLAlchemy | PostgreSQL/SQLite
+- **Frontend:** React 18 | Tailwind CSS | React Query | Context API
+- **Authentication:** JWT tokens
+- **API:** RESTful design
+- **Payments:** Stripe & PayPal integration
+- **Email:** Flask-Mail for notifications
+- **Forms:** React Hook Form
+- **Routing:** React Router v6
+- **Notifications:** React Hot Toast
+- **Animations:** Framer Motion
+
+#### **Architecture:**
+- Clean separation of concerns
+- Component-based architecture
+- State management with React Query + Context
+- Responsive design for all devices
+
+**Repository:** [GitHub - Travellers Platform](https://github.com/pasindi15/travellers)
+
+</details>
 
 ---
 
-## 📊 Progress Metrics & Statistics
+### 🛫 **SkyWay - Android Flight Booking App**
 
 <div align="center">
-
-### 🎯 **Project Completion Status**
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Parts-21%2F30-blue?style=for-the-badge&logo=progress" /><br/>
-  <b>70.0% Complete</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Phases-6%2F7-green?style=for-the-badge&logo=checkmarx" /><br/>
-  <b>6 Phases Done</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Weeks-8-orange?style=for-the-badge&logo=calendar" /><br/>
-  <b>8 Weeks Invested</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge&logo=rocket" /><br/>
-  <b>Live & Deployed</b>
-</td>
-</tr>
-</table>
-
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Kotlin-purple?style=for-the-badge" />
 </div>
 
-### 💻 **Code Statistics**
+**Modern Android travel/flight booking app** with Material Design, fragments architecture, and comprehensive form validation.
 
-```python
-BRAINO_METRICS = {
-    "backend_python": 8500,      # Lines of Python code
-    "frontend_typescript": 4200,  # Lines of TypeScript/TSX
-    "sql_migrations": 1800,       # SQL migration scripts
-    "test_files": 2000,           # Test coverage
-    "documentation": 18000,       # Documentation
-    "total_lines": 34500          # Total lines of code
-}
-```
+<details>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
 
-### 🏗️ **System Architecture**
+#### **Core Features:**
+- 📱 **Daily Habit Tracker:** Create, update, delete, monitor habits with visual progress
+- 😊 **Mood Journal:** Emoji selector, calendar/list views, easy reflection and sharing
+- 💧 **Hydration Reminders:** Alarm Manager & Work Manager for timely drinking reminders
+- 🏠 **Home Screen Widget:** Quick access to progress updates and essential features
+- 📊 **Visual Progress Tracking:** Real-time habit completion tracking
+- 🔄 **Data Persistence:** Efficient management through Shared Preferences
+
+#### **Technical Stack:**
+- **Language:** Kotlin
+- **UI:** Material Design principles
+- **Architecture:** Fragment-centric modularity
+- **Navigation:** Manual fragment transactions with Bundle arguments
+- **Components:** Reusable card components
+- **Forms:** Advanced validation mechanics (email, password complexity)
+- **Data Generation:** Dynamic time offsets, ticket samples
+- **Resources:** Centralized strings, colors, dimensions, arrays
+- **Responsive:** Works on smartphones and tablets
+
+#### **Key Patterns:**
+- Fragment lifecycle management
+- Manual navigation with back stack control
+- Time mapping and autocomplete
+- Grid & list implementations (RecyclerView)
+- Weighted columns for responsive layouts
+- Data binding without heavy frameworks
+
+#### **Performance:**
+- Lightweight with Shared Preferences
+- Smooth responsive experience
+- Material Design animations
+- Optimized for battery usage
+
+**Documentation:** Comprehensive viva/oral defense documentation with 28 sections covering architecture, patterns, and best practices
+
+</details>
+
+---
+
+### 🌴 **TripMate - Travel Planner UI/UX Design**
 
 <div align="center">
-
-| Category | Count | Status |
-|----------|-------|--------|
-| **API Endpoints** | 100+ | ✅ All Working |
-| **Database Tables** | 25+ | ✅ Optimized |
-| **Frontend Pages** | 12 | ✅ Responsive |
-| **UI Components** | 30+ | ✅ Reusable |
-| **Security Layers** | 8 | ✅ Enterprise-Grade |
-| **Test Suites** | 15+ | ✅ Comprehensive |
-
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool-Figma-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-UI%2FUX%20Design-orange?style=for-the-badge" />
 </div>
 
-### ⚡ **Performance Benchmarks**
+**Personal travel planner prototype** with clean, modern, user-friendly experience designed in Figma.
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary><b>🔍 Key Features & Design Details</b> (Click to expand)</summary>
 
-**Speed Metrics**
-```
-✅ Document Upload: <3s (with scan)
-✅ Semantic Search: <100ms
-✅ RAG Response: <200ms start
-✅ Token Streaming: Real-time
-✅ Dashboard Load: <500ms
-✅ Financial Forecast: <2s
-```
+#### **Core Features:**
+- 🌍 **Discover Best Countries:** Browse and explore top travel destinations
+- 🏨 **Hotel Booking:** Explore and book hotels for your stay
+- ✈️ **Air Tickets:** Book flights with ease
+- 🚂 **Transport Booking:** Reserve train and public transport
+- 🎫 **Digital Boarding Pass:** View your boarding pass digitally
+- 📱 **Instant Notifications:** Get alerts when bookings are confirmed
+- 👤 **Traveler Profile:** Manage your profile with ease
 
-</td>
-<td width="50%">
+#### **Design Principles:**
+- **Clean & Modern:** Minimalist design aesthetic
+- **User-Friendly:** Intuitive navigation and interactions
+- **Freedom & Control:** Give travelers complete autonomy
+- **Convenience:** Everything accessible at fingertips
+- **Professional:** Industry-standard UI/UX practices
 
-**Accuracy Metrics**
-```
-✅ Citation Precision: 98%
-✅ Follow-up Detection: 95%
-✅ Intent Classification: 92%
-✅ Workspace Isolation: 100%
-✅ Anomaly Detection: 85%+ confidence
-✅ Search Relevance: 96%
-```
+#### **Design Process:**
+- User research and persona development
+- Wireframing and prototyping
+- High-fidelity mockups
+- Interactive prototype with Figma
+- User flow optimization
 
-</td>
-</tr>
-</table>
+**Goal:** Eliminate reliance on travel agencies by empowering users with a comprehensive self-service platform
+
+</details>
+
+---
+
+### 🏔️ **Sky Mountain - Property Management System**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Java%20MVC-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Group%20Project-blue?style=for-the-badge" />
+</div>
+
+**Online Property Management System** built as SLIIT OOP group project with Java, HTML, CSS, and MySQL.
+
+<details>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
+
+#### **My Contributions:**
+- 🔐 **User Authentication:** Login system
+- 👤 **User Profile:** Create and update user profiles
+- 👨‍💼 **Admin Dashboard:** User management (read, update, delete)
+- 🔧 **Servlets:** All user-related servlet pages
+  - userDeleteServlet.java
+  - userInsertServlet.java
+  - userLoginServlet.java
+  - userProfileServlet.java
+  - userProfileUpdateServlet.java
+  - userReadServlet.java
+  - userUpdateServlet.java
+- 📄 **Views:** JSP files (userLogin, userProfile, userRegistration, userUpdate, userDisplay)
+- 🎨 **Frontend:** HTML pages, CSS styling
+- 📝 **Logging:** Logger utility for all user servlets
+- 🔧 **Constants:** User details configuration
+
+#### **Technical Stack:**
+- **Backend:** Java | Eclipse IDE
+- **Frontend:** HTML | CSS | JavaScript
+- **Database:** MySQL
+- **Architecture:** MVC (Model-View-Controller)
+- **Design Patterns:** Singleton (DB connection), Custom Logger Utility
+- **Features:** Session Management | Admin Dashboard
+
+#### **Key Learnings:**
+- OOP principles in practice
+- MVC architecture implementation
+- Java-based full-stack development
+- Scalable design patterns
+- Team collaboration in real-world projects
+
+**Repository:** [GitHub - Sky Mountain](https://github.com/pasindi15/Sky-Mountain-Online-Property-Management-System)
+
+</details>
+
+---
+
+### 💼 **Portfolio Website**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20JavaScript-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Professional%20Portfolio-orange?style=for-the-badge" />
+</div>
+
+**Professional portfolio website** showcasing projects, apps, websites, and UI/UX designs.
+
+<details>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
+
+#### **Core Sections:**
+- 📂 **Project Showcase:** Display completed applications, websites, and UI/UX designs with detailed descriptions and visuals
+- 🎓 **Professional Qualifications:** Education, certifications, and technical skills
+- 📄 **CV Download:** Direct download of updated resume for employers/recruiters
+- 📞 **Contact Section:** Easy-to-use form and direct contact links
+- ✨ **Professional UI:** Clean, minimal, modern design reflecting industry standards
+
+#### **Technical Stack:**
+- **Frontend:** HTML | CSS | JavaScript | React
+- **Design:** Figma for mockups and prototyping
+- **Backend:** Java (for dynamic features)
+- **Responsive:** Mobile-first design approach
+
+#### **Design Philosophy:**
+- Minimal and professional aesthetic
+- Fast loading times
+- Easy navigation
+- Clear call-to-actions
+- Accessibility-focused
+
+**Purpose:** Central hub for potential employers, collaborators, and clients to explore my work
+
+</details>
+
+---
+
+### ✅ **To-Do List Web App**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Python-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Task%20Management-green?style=for-the-badge" />
+</div>
+
+**Lightweight task management tool** with CRUD operations and persistent local storage.
+
+<details>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
+
+#### **Core Features:**
+- ➕ **Add Tasks:** Instantly add new tasks
+- 🖊️ **Edit Tasks:** Modify existing tasks
+- 🗑️ **Delete Tasks:** Remove completed or unwanted tasks
+- ✅ **Mark as Completed:** Track completion status
+- 💾 **Persistent Storage:** Data saved locally (localStorage)
+- 📱 **Responsive Design:** Clean UI for distraction-free experience
+
+#### **Technical Stack:**
+- **Backend:** Python
+- **Frontend:** HTML | CSS | JavaScript
+- **Storage:** Browser localStorage for data persistence
+- **Design:** Clean and minimal interface
+
+#### **Use Cases:**
+- Daily schedule management
+- Personal reminders
+- Goal tracking
+- Task prioritization
+
+**Repository:** [GitHub - To-Do List](https://github.com/pasindi15/To-Do-List-web-app)
+
+</details>
+
+---
+
+### 📚 **EduFlex - Online Learning Platform**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Group%20Project-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20PHP-orange?style=for-the-badge" />
+</div>
+
+**Online Teacher Training platform** developed as 1st year group project at SLIIT.
+
+<details>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
+
+#### **Core Features:**
+- 👨‍🏫 **Teacher Training:** Comprehensive online training platform
+- 📝 **Course Management:** Create and manage training courses
+- 👥 **User Management:** Teacher and admin accounts
+- 📊 **Progress Tracking:** Monitor learning progress
+- 💬 **Simple & User-Friendly:** Easy navigation and clean interface
+
+#### **Technical Stack:**
+- **Frontend:** HTML | CSS | JavaScript
+- **Backend:** PHP
+- **Database:** SQL
+- **Architecture:** Traditional server-side rendering
+
+#### **Project Type:**
+University first year, 2nd semester group project demonstrating foundational web development skills
+
+**Repository:** [GitHub - EduFlex](https://github.com/pasindi15/Online-Learning-Website---EDUFLEX)
+
+</details>
+
+---
+
+### 🏃 **Wellness Tracker - Mobile Health App**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Kotlin-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Score-10%2F10-gold?style=for-the-badge" />
+</div>
+
+**Comprehensive wellness app** for tracking daily habits, moods, and hydration - developed for SLIIT Mobile App Development Lab Exam.
+
+<details>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
+
+#### **Core Features:**
+- 📋 **Daily Habit Tracker:** Create, update, delete, monitor habits with visual progress tracking
+- 😊 **Mood Journal:** Emoji selector with calendar/list views for reflection and sharing
+- 💧 **Hydration Reminder System:** Alarm Manager and Work Manager for timely drinking reminders
+- 🏠 **Home Screen Widget:** Quick access to progress updates directly from home screen
+- 📊 **Progress Tracking:** Visual progress bars and completion statistics
+- 💾 **Data Persistence:** Efficient management through Shared Preferences
+
+#### **Technical Stack:**
+- **Language:** Kotlin
+- **UI:** Material Design principles
+- **Architecture:** Fragment-based navigation
+- **Components:** Bottom navigation, custom cards, calendars
+- **Data:** Shared Preferences for lightweight storage
+- **Notifications:** Alarm Manager for reminders
+- **Background:** Work Manager for reliable scheduling
+- **Design:** 60/30/10 color scheme (black/white/accent)
+
+#### **Advanced Features:**
+- Custom mood tracking with trend analysis (7-day chart)
+- Configurable reminder intervals (customizable minutes)
+- Data export/import functionality (JSON format)
+- Sample data generation for testing
+- Clear all data with confirmation
+- Widget for home screen quick access
+- Calendar view for mood history
+
+#### **Project Evaluation:**
+**Total Score: 10/10**
+- Functionality: 3/3 (Core and bonus features)
+- UI/UX Design: 2/2 (Clean and intuitive)
+- Code Quality: 2/2 (Well-organized and documented)
+- Advanced Features: 3/3 (SharedPreferences + widget)
+
+#### **Architecture Highlights:**
+- Clean separation of concerns
+- Reusable UI components
+- Centralized resource management (strings.xml, colors.xml)
+- Dark theme support
+- Responsive layouts for phones and tablets
+
+**Documentation:** Complete lab exam report with screenshots and technical documentation
+
+</details>
 
 ---
 
 ## 🛠️ Technology Stack
 
-### **Backend Ecosystem**
+### **Languages**
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python_3.11-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Advanced-FF6B6B?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq_API-Advanced-000000?style=for-the-badge)
-
-</div>
-
-### **Frontend Ecosystem**
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js_14-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Advanced-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Recharts](https://img.shields.io/badge/Recharts-Advanced-8884D8?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-### **AI/ML Pipeline**
+### **Backend Technologies**
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Advanced-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-Intermediate-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+</div>
+
+### **Frontend Technologies**
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_14-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Advanced-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-Advanced-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-Advanced-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+
+</div>
+
+### **Mobile Development**
+
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-Advanced-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-Advanced-757575?style=for-the-badge&logo=material-design&logoColor=white)
+
+</div>
+
+### **Databases**
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Advanced-FF6B6B?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+### **AI/ML & Tools**
 
 <div align="center">
 
 ![Llama](https://img.shields.io/badge/Llama_3.3_70B-Advanced-7C3AED?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-Advanced-FFD21E?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_Database-Expert-FF6B6B?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_API-Advanced-000000?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-Expert-FF6B6B?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Pipeline-Expert-10B981?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-Advanced-FFD21E?style=for-the-badge)
 
 </div>
 
-### **DevOps & Infrastructure**
+### **Design & Prototyping**
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-Advanced-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-Intermediate-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
+</div>
+
+### **DevOps & Deployment**
 
 <div align="center">
 
@@ -381,353 +624,112 @@ BRAINO_METRICS = {
 ![Railway](https://img.shields.io/badge/Railway-Deployed-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Expert-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Key Features & Capabilities (70% Complete)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindi15&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pasindi15&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindi15&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💼 Professional Summary
 
 <table>
 <tr>
-<th width="25%">Category</th>
-<th width="35%">Capability</th>
-<th width="15%">Status</th>
-<th width="25%">Performance</th>
-</tr>
+<td width="50%">
 
-<!-- Document Intelligence -->
-<tr>
-<td rowspan="5"><b>📄 Document Intelligence</b></td>
-<td>Multi-format Parsing</td>
-<td>✅ Complete</td>
-<td>&lt;5s per document</td>
-</tr>
-<tr>
-<td>Virus Scanning (ClamAV)</td>
-<td>✅ Complete</td>
-<td>Real-time</td>
-</tr>
-<tr>
-<td>Smart Chunking</td>
-<td>✅ Complete</td>
-<td>800 tokens/chunk</td>
-</tr>
-<tr>
-<td>Document Statistics</td>
-<td>✅ Complete</td>
-<td>&lt;150ms</td>
-</tr>
-<tr>
-<td>Metadata Management</td>
-<td>✅ Complete</td>
-<td>CRUD operations</td>
-</tr>
+### 🎯 **Expertise Areas**
+- ✅ Enterprise AI Systems (RAG, LLM)
+- ✅ Full-Stack Web Development (MERN, Flask)
+- ✅ Android Mobile Development (Kotlin)
+- ✅ Financial Intelligence & Analytics
+- ✅ Compliance & Security Systems
+- ✅ UI/UX Design (Figma)
+- ✅ System Architecture & Design
+- ✅ Database Design & Optimization
 
-<!-- Search & Retrieval -->
-<tr>
-<td rowspan="5"><b>🔍 Search & Retrieval</b></td>
-<td>Semantic Search</td>
-<td>✅ Complete</td>
-<td>&lt;100ms</td>
-</tr>
-<tr>
-<td>Hybrid Search</td>
-<td>✅ Complete</td>
-<td>&lt;120ms</td>
-</tr>
-<tr>
-<td>Relevance Scoring</td>
-<td>✅ Complete</td>
-<td>98% accuracy</td>
-</tr>
-<tr>
-<td>Vector Indexing</td>
-<td>✅ Complete</td>
-<td>384 dimensions</td>
-</tr>
-<tr>
-<td>Result Ranking</td>
-<td>✅ Complete</td>
-<td>Confidence-based</td>
-</tr>
+</td>
+<td width="50%">
 
-<!-- AI & RAG -->
-<tr>
-<td rowspan="5"><b>🤖 AI & RAG</b></td>
-<td>Question Answering</td>
-<td>✅ Complete</td>
-<td>&lt;2s response</td>
-</tr>
-<tr>
-<td>Citation Tracking</td>
-<td>✅ Complete</td>
-<td>100% accurate</td>
-</tr>
-<tr>
-<td>Streaming Responses</td>
-<td>✅ Complete</td>
-<td>Real-time SSE</td>
-</tr>
-<tr>
-<td>Confidence Scoring</td>
-<td>✅ Complete</td>
-<td>HIGH/MED/LOW</td>
-</tr>
-<tr>
-<td>Context Injection</td>
-<td>✅ Complete</td>
-<td>5 chunks max</td>
-</tr>
+### 📊 **Project Statistics**
+- 📦 **Total Projects:** 10+ completed
+- 💻 **Lines of Code:** 50,000+
+- 🚀 **Production Apps:** 3 live
+- 📱 **Mobile Apps:** 2 Android apps
+- 🎨 **UI/UX Projects:** 2 Figma designs
+- 🤖 **AI Projects:** 1 enterprise system
+- 👥 **Team Projects:** 3 collaborative
+- 🏆 **Lab Scores:** 10/10 (Wellness Tracker)
 
-<!-- Conversation -->
-<tr>
-<td rowspan="4"><b>💬 Conversation AI</b></td>
-<td>Context Memory</td>
-<td>✅ Complete</td>
-<td>10 messages</td>
+</td>
 </tr>
-<tr>
-<td>Follow-up Detection</td>
-<td>✅ Complete</td>
-<td>95% accuracy</td>
-</tr>
-<tr>
-<td>Intent Classification</td>
-<td>✅ Complete</td>
-<td>&lt;10ms</td>
-</tr>
-<tr>
-<td>Entity Extraction</td>
-<td>✅ Complete</td>
-<td>&lt;8ms</td>
-</tr>
-
-<!-- Financial Intelligence -->
-<tr>
-<td rowspan="5"><b>💰 Financial Intelligence</b></td>
-<td>Transaction Management</td>
-<td>✅ Complete</td>
-<td>CRUD + Export</td>
-</tr>
-<tr>
-<td>Budget Tracking</td>
-<td>✅ Complete</td>
-<td>Real-time usage</td>
-</tr>
-<tr>
-<td>Cash Flow Forecasting</td>
-<td>✅ Complete</td>
-<td>90-day predictions</td>
-</tr>
-<tr>
-<td>Anomaly Detection</td>
-<td>✅ Complete</td>
-<td>AI-powered alerts</td>
-</tr>
-<tr>
-<td>Revenue Analysis</td>
-<td>✅ Complete</td>
-<td>Trend analysis</td>
-</tr>
-
-<!-- Compliance -->
-<tr>
-<td rowspan="4"><b>✅ Compliance Monitoring</b></td>
-<td>Rules Management</td>
-<td>✅ Complete</td>
-<td>CRUD operations</td>
-</tr>
-<tr>
-<td>Items Tracking</td>
-<td>✅ Complete</td>
-<td>Status monitoring</td>
-</tr>
-<tr>
-<td>Alert System</td>
-<td>✅ Complete</td>
-<td>Real-time alerts</td>
-</tr>
-<tr>
-<td>Dashboard & Reports</td>
-<td>✅ Complete</td>
-<td>Export capable</td>
-</tr>
-
-<!-- Security -->
-<tr>
-<td rowspan="5"><b>🔒 Enterprise Security</b></td>
-<td>JWT Authentication</td>
-<td>✅ Complete</td>
-<td>Auto-refresh</td>
-</tr>
-<tr>
-<td>Row-Level Security</td>
-<td>✅ Complete</td>
-<td>100% isolation</td>
-</tr>
-<tr>
-<td>Data Encryption</td>
-<td>✅ Complete</td>
-<td>AES-128</td>
-</tr>
-<tr>
-<td>Audit Logging</td>
-<td>✅ Complete</td>
-<td>30+ events</td>
-</tr>
-<tr>
-<td>Security Headers</td>
-<td>✅ Complete</td>
-<td>7 types</td>
-</tr>
-
-<!-- UI/UX -->
-<tr>
-<td rowspan="4"><b>🎨 User Interface</b></td>
-<td>Real-Time Chat</td>
-<td>✅ Complete</td>
-<td>SSE streaming</td>
-</tr>
-<tr>
-<td>Financial Dashboard</td>
-<td>✅ Complete</td>
-<td>Charts + Graphs</td>
-</tr>
-<tr>
-<td>Mobile Responsive</td>
-<td>✅ Complete</td>
-<td>All devices</td>
-</tr>
-<tr>
-<td>Dark Theme</td>
-<td>✅ Complete</td>
-<td>60/30/10</td>
-</tr>
-
 </table>
 
 ---
 
-## 🏅 Technical Achievements
+## 🎯 Career Objectives
+
+> Seeking challenging opportunities in **AI/ML Engineering**, **Full-Stack Development**, or **Technical Architecture** roles where I can leverage my expertise in building production-grade systems, enterprise AI solutions, and scalable full-stack applications.
+
+### **What I Bring:**
+- ✅ Proven ability to build complex systems from scratch
+- ✅ Strong foundation in AI/ML, RAG, and LLM integration
+- ✅ Full-stack expertise across multiple frameworks
+- ✅ Mobile development experience (Android/Kotlin)
+- ✅ UI/UX design capabilities
+- ✅ Production deployment experience
+- ✅ Team collaboration and project leadership
+- ✅ Passion for clean code and best practices
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-### 🚀 **Speed & Performance**
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Search-<100ms-brightgreen?style=for-the-badge" /><br/>
-<b>Lightning Fast</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/RAG-<2s-blue?style=for-the-badge" /><br/>
-<b>End-to-End</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Streaming-Real--time-success?style=for-the-badge" /><br/>
-<b>Instant Responses</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Forecast-<2s-orange?style=for-the-badge" /><br/>
-<b>90-Day Prediction</b>
-</td>
-</tr>
-</table>
-
-### 🎯 **Accuracy & Quality**
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Citations-98%25-brightgreen?style=for-the-badge" /><br/>
-<b>Citation Precision</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Follow--ups-95%25-blue?style=for-the-badge" /><br/>
-<b>Context Understanding</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Isolation-100%25-success?style=for-the-badge" /><br/>
-<b>Workspace Security</b>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Anomalies-85%25+-orange?style=for-the-badge" /><br/>
-<b>Detection Confidence</b>
-</td>
-</tr>
-</table>
-
-### 🛡️ **Security & Compliance**
-```
-🔒 OWASP Top 10 Protected      ✅ Complete
-🔒 Enterprise Row-Level Security ✅ Complete
-🔒 Multi-layer Authentication   ✅ Complete
-🔒 Real-time Virus Scanning     ✅ Complete
-🔒 Audit Logging (30+ events)   ✅ Complete
-🔒 Compliance Monitoring         ✅ Complete
-```
-
-### 📊 **Scale & Architecture**
-```
-🏗️ Multi-tenant Architecture    ✅ Deployed
-🏗️ 100+ API Endpoints           ✅ Working
-🏗️ 25+ Database Tables          ✅ Optimized
-🏗️ Horizontal Scalability       ✅ Ready
-🏗️ Financial Intelligence       ✅ Live
-🏗️ Compliance System            ✅ Active
-```
+[![Email](https://img.shields.io/badge/Email-pasindialawatta%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasindialawatta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindi-alawatta)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasindi15)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
 
 </div>
 
 ---
 
-## 💼 Core Technical Competencies
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</div>
 
-<details>
-<summary><b>🔥 AI & Machine Learning</b> (Click to expand)</summary>
-
-### **Expert Level:**
-- ✅ **RAG Systems**
-  - Retrieval Augmented Generation pipelines
-  - Hybrid search (semantic + keyword)
-  - Context injection & prompt engineering
-  - Citation tracking & source verification
-  - 95% accuracy in follow-up detection
-
-- ✅ **Vector Databases**
-  - ChromaDB production deployment
-  - HNSW indexing algorithms
-  - Cosine similarity optimization
-  - Embedding management & storage
-  - Sub-100ms search performance
-
-### **Advanced Level:**
-- ✅ **LLM Integration**
-  - Groq API with Llama 3.3 70B
-  - Server-sent events for streaming
-  - Token optimization strategies
-  - Prompt engineering for financial AI
-  - Real-time response generation
-
-- ✅ **NLP & Text Processing**
-  - sentence-transformers (384-dim)
-  - Intent classification (92% accuracy)
-  - Entity extraction (<8ms)
-  - Semantic chunking algorithms
-  - Text deduplication
-
-</details>
-
-<details>
-<summary><b>💻 Backend & Architecture</b> (Click to expand)</summary>
-
-### **Expert Level:**
-- ✅ **FastAPI**
-  - Async/await patterns for high performance
-  - Dependency injection architecture
-  - Background tasks with Celery + Redis
-  - RESTful API design (100+ endpoints)
-  - Server-sent events for streaming
-
-- ✅ **Database Engineering**
-  - Postgre
+<div align="center">
+  <b>⭐ From <a href="https://github.com/pasindi15">pasindi15</a> - Building the future, one line of code at a time ⭐</b>
+</div>
