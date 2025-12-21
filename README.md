@@ -52,11 +52,11 @@
   <a href="https://braino-xi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_BRAINO-a855f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
-  <a href="https://braino-production.up.railway.app/docs" target="_blank">
-    <img src="https://img.shields.io/badge/📚_API_Docs-Swagger-blue?style=for-the-badge&logo=swagger&logoColor=white" alt="API Docs" />
+  <a href="https://braino-xi.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Launch_App-Try_Free-yellow?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch App" />
   </a>
-  <a href="https://github.com/pasindi15/braino" target="_blank">
-    <img src="https://img.shields.io/badge/📦_GitHub-View_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://braino-xi.vercel.app/pricing" target="_blank">
+  <img src="https://img.shields.io/badge/💳_Pricing-View_Plans-purple?style=for-the-badge&logo=stripe&logoColor=white" alt="Pricing" />
   </a>
 </div>
 
