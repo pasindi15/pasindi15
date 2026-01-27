@@ -729,18 +729,33 @@ University first year, 2nd semester group project demonstrating foundational web
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+<p align="center">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pasindi15&theme=radical&hide_border=true)
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
-</div>
+---
+
+### 🧠 Most Used Languages
+<p align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
+
+</p>
+
+---
+
+### 🚀 Deployment Status (Vercel)
+<p align="center">
+
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-success?style=for-the-badge&logo=vercel&logoColor=white)
+![Production](https://img.shields.io/github/deployments/pasindi15/Braino/production?style=for-the-badge&label=Production&color=6f42c1)
+![Last Deploy](https://img.shields.io/github/last-commit/pasindi15/Braino?style=for-the-badge&label=Last%20Deploy&color=6f42c1)
+
+</p>
+
 
 ---
 
