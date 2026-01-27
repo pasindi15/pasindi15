@@ -735,9 +735,8 @@ University first year, 2nd semester group project demonstrating foundational web
   <img src="https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pasindi15&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
-</p>
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pasindi15&theme=radical&hide_border=true)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
