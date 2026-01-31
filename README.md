@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About us
 
 > **Building enterprise-grade solutions** across AI systems, full-stack web applications, and mobile platforms
 
