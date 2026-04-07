@@ -731,18 +731,14 @@ University first year, 2nd semester group project demonstrating foundational web
 
 ### 📊 GitHub Stats
 <p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🧠 Most Used Languages
 <p align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 ---
