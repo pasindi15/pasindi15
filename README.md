@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindi Alawatta</h1>
-<h3 align="center">Aspiring AI Engineer | Full-Stack Developer | Mobile App Developer</h3>
+<h3 align="center">Aspiring AI Engineer | Full-Stack Developer | Intern Data Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pasindi15&label=Profile%20views&color=a855f7&style=for-the-badge" alt="pasindi15" />
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-> **Building enterprise-grade solutions** across AI systems, full-stack web applications, and mobile platforms
+> **Building enterprise-grade solutions** across AI systems, full-stack web applications, and Data Warehouse Solutions
 
 - 🧠 **Currently Building:** [BRAINO](https://github.com/pasindi15/braino) - Enterprise AI Business Operations Manager (**✅ 100% COMPLETE!**)
 - 🎯 **Latest Achievement:** Complete AI Business Operations Manager with 30/30 parts finished - Financial Intelligence, Compliance, Monitoring, Weakness Detection & More!
