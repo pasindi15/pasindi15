@@ -757,7 +757,7 @@ University first year, 2nd semester group project demonstrating foundational web
 
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-success?style=for-the-badge&logo=vercel&logoColor=white)
 ![Production](https://img.shields.io/badge/Production-Live-success?style=for-the-badge&logo=vercel&logoColor=white)
-![Last Deploy](https://img.shields.io/github/last-commit/pasindi15/braino-xi?style=for-the-badge&label=Last%20Deploy&color=6f42c1)
+![Last Deploy](https://img.shields.io/badge/Last%20Deploy-Recent-success?style=for-the-badge&color=6f42c1)
 
 </p>
 
