@@ -731,14 +731,21 @@ University first year, 2nd semester group project demonstrating foundational web
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&count_private=true&cache_seconds=1800&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pasindi15&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 </p>
 
 ---
@@ -747,11 +754,10 @@ University first year, 2nd semester group project demonstrating foundational web
 <p align="center">
 
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-success?style=for-the-badge&logo=vercel&logoColor=white)
-![Production](https://img.shields.io/github/deployments/pasindi15/Braino/production?style=for-the-badge&label=Production&color=6f42c1)
-![Last Deploy](https://img.shields.io/github/last-commit/pasindi15/Braino?style=for-the-badge&label=Last%20Deploy&color=6f42c1)
+![Production](https://img.shields.io/badge/Production-Live-success?style=for-the-badge&logo=vercel&logoColor=white)
+![Last Deploy](https://img.shields.io/github/last-commit/pasindi15/braino?style=for-the-badge&label=Last%20Deploy&color=6f42c1)
 
 </p>
-
 
 ---
 
