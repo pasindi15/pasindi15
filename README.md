@@ -731,14 +731,16 @@ University first year, 2nd semester group project demonstrating foundational web
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindi15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pasindi15&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasindi15&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 ---
 
 ### 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindi15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&count_private=true&cache_seconds=1800&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pasindi15&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pasindi15&theme=radical" alt="Most Commit Language" />
 </p>
 
 ---
@@ -755,7 +757,7 @@ University first year, 2nd semester group project demonstrating foundational web
 
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-success?style=for-the-badge&logo=vercel&logoColor=white)
 ![Production](https://img.shields.io/badge/Production-Live-success?style=for-the-badge&logo=vercel&logoColor=white)
-![Last Deploy](https://img.shields.io/github/last-commit/pasindi15/braino?style=for-the-badge&label=Last%20Deploy&color=6f42c1)
+![Last Deploy](https://img.shields.io/github/last-commit/pasindi15/braino-xi?style=for-the-badge&label=Last%20Deploy&color=6f42c1)
 
 </p>
 
