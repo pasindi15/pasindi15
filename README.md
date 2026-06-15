@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pasindi Alawatta</h1>
-<h3 align="center">Aspiring AI Engineer | Full-Stack Developer | Intern Data Engineer</h3>
+<h3 align="center">Data Engineer Intern | AI Engineer | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pasindi15&label=Profile%20views&color=a855f7&style=for-the-badge" alt="pasindi15" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise%20AI%20%26%20Full--Stack%20Development-brightgreen?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/badge/Projects-10%2B%20Completed-blue?style=for-the-badge" alt="projects" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20AI%2C%20Data%20Engineering%20%26%20BI-brightgreen?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Projects-13%2B%20Completed-blue?style=for-the-badge" alt="projects" />
   <img src="https://img.shields.io/badge/BRAINO-100%25%20COMPLETE-success?style=for-the-badge" alt="braino" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Enterprise+AI+Systems+Engineer;Full-Stack+Web+%26+Mobile+Developer;RAG+%2B+LLM+%2B+Vector+Databases;MERN+%7C+React+%7C+Next.js+%7C+Flask;Android+%7C+Kotlin+%7C+Java;UI%2FUX+Designer+%7C+Figma;Building+Production-Grade+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Enterprise+AI+Systems+Engineer;Full-Stack+Web+%26+Mobile+Developer;RAG+%2B+LLM+%2B+Vector+Databases;MERN+%7C+React+%7C+Next.js+%7C+Flask;Android+%7C+Kotlin+%7C+Java;UI%2FUX+Designer+%7C+Figma;Data+Engineering+%7C+SQL+Server+%7C+Power+BI;Building+Production-Grade+Solutions" alt="Typing SVG" />
 </div>
 
 ---
@@ -25,11 +25,13 @@
   - **Full-Stack:** MERN, React, Next.js, Flask, FastAPI, Node.js
   - **Mobile:** Android (Kotlin/Java), Material Design, Responsive UI
   - **UI/UX:** Figma, User-Centered Design, Prototyping
-- 🔭 **Tech Arsenal:** Python, TypeScript, JavaScript, Kotlin, Java, SQL, MongoDB, PostgreSQL
-- 🌱 **Mastering:** Advanced RAG, Financial Intelligence, Compliance Systems, Enterprise Architecture
-- 💡 **Portfolio:** 10+ completed projects spanning AI, web, mobile, and design
+- 🔭 **Tech Arsenal:** Python, TypeScript, JavaScript, Kotlin, Java, SQL, R, MongoDB, PostgreSQL
+- 💼 **Current Internship:** Data Engineer Intern at Bank of Ceylon (BOC) - Head Office, contributing to an enterprise-scale Data Lakehouse implementation
+- 🌱 **Mastering:** Data Engineering (Apache Kafka, Apache Airflow, MLflow, Delta Lake), Advanced RAG, Financial Intelligence, Enterprise Architecture
+- 📊 **Recent Additions:** Data Warehousing & BI (Star Schema, SSAS, Power BI, Tableau), Statistical Analytics with R
+- 💡 **Portfolio:** 13+ completed projects spanning AI, web, mobile, data engineering, and design
 - 🌐 **Live Projects:** BRAINO (Production), SafeZone DMS, Travellers Platform, SkyWay, TripMate, Portfolio
-- 👯 **Open to:** Senior AI/ML Engineer, Full-Stack Engineer, Technical Architect, Mobile Developer roles
+- 👯 **Open to:** Data Engineer, Associate Software Engineer, AI/ML Engineer, Full-Stack Engineer roles
 - 💬 **Ask me about:** RAG Systems, MERN Stack, Android Development, System Architecture, UI/UX Design
 - 📫 **Contact:** pasindialawatta@gmail.com
 - ⚡ **Fun fact:** Built an enterprise AI system with 34,000+ lines of code in 8 weeks!
@@ -222,6 +224,104 @@ Anomaly Detection: 85%+ | Health Monitoring: 24/7 | Uptime: 99.9%
 | **Documentation** | 18,000+ lines | ✅ Complete |
 
 </div>
+
+---
+
+## 📊 Data Engineering & BI Projects
+
+### 🏥 **NYHospitalDW & BI Solution - Enterprise Data Warehouse & BI Platform**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-SQL%20Server%20%7C%20SSAS%20%7C%20Power%20BI-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Type-Academic%20Project-orange?style=for-the-badge" />
+</div>
+
+**Full Star Schema data warehouse and BI stack** built on real-world New York State hospital admission data, covering everything from dimensional modeling to cloud-published BI reports - developed for IT3021: Data Warehousing & Business Intelligence at SLIIT.
+
+<details>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
+
+#### **Core Components:**
+- 🗂️ **Data Warehouse:** NYHospitalDW with a central FactAdmission fact table and 6 dimension tables (DimDate, DimHospital, DimPatient, DimDiagnosis, DimProcedure, DimPayment)
+- 🧊 **OLAP Cube:** SSAS multidimensional cube with dimension hierarchies and measure groups, deployed via an XMLA script through SSMS after a Visual Studio deployment issue
+- 📊 **OLAP Analysis:** Roll-up, drill-down, slice, dice, and pivot operations on live cube data using Excel PivotTables for business-friendly exploration
+- 📈 **Power BI Reports:** 4 interactive reports (Matrix, Slicers, Drill-Down, Drill-Through) published to Power BI Service for cloud-based access and sharing
+
+#### **Technical Stack:**
+- **Database:** SQL Server (SSMS), T-SQL
+- **Analytics:** SQL Server Analysis Services (SSAS), XMLA
+- **BI & Reporting:** Power BI Service, Excel PivotTables
+- **Concepts:** Star Schema, Dimensional Modeling, ETL Pipeline Design
+
+**Repository:** [GitHub - NYHospitalDW & BI Solution](https://github.com/pasindi15)
+
+</details>
+
+---
+
+### 💰 **Financial Tracker - Full-Stack Data Engineering App**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Laravel%20%7C%20MySQL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Type-Internship%20Project-blue?style=for-the-badge" />
+</div>
+
+**Full-stack personal finance tracker** built as a Data Engineering internship project, combining a Laravel REST API with interactive grids, pivot reporting, and export pipelines.
+
+<details>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
+
+#### **Core Features:**
+- 🔐 **REST API:** Laravel 11 with Sanctum authentication
+- 📊 **Interactive Data Grids:** Tabulator with inline editing, multi-column filters, and pagination
+- 📅 **Monthly Pivot Tables:** Category-wise spending breakdowns
+- 🎯 **Budget vs. Actual Tracker:** Colour-coded status indicators
+- 📈 **Trend Charts:** ApexCharts for income vs. expense visualization
+- 📑 **Export Layer:** Excel and PDF reporting
+
+#### **Technical Stack:**
+- **Backend:** Laravel 11, Sanctum, MySQL
+- **Frontend:** Tabulator, ApexCharts, Tailwind CSS
+- **Concepts:** ETL pipelines, fact/dimension data modeling, aggregation & reporting layers
+
+**Repository:** [GitHub - Financial Tracker](https://github.com/pasindi15)
+
+</details>
+
+---
+
+### 🩺 **Doctor-Patient Communication & Patient Comprehension Analysis**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-R%20%7C%20ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Type-Statistical%20Analysis-purple?style=for-the-badge" />
+</div>
+
+**End-to-end statistical and predictive analytics project** exploring whether doctor-patient communication quality predicts a patient's ability to understand their next steps, using healthcare survey data.
+
+<details>
+<summary><b>🔍 Key Features & Tech Details</b> (Click to expand)</summary>
+
+#### **Workflow:**
+- 🧹 Data cleaning and preprocessing
+- 📊 Exploratory and descriptive data analysis
+- 📈 Data visualization with ggplot2
+- 🔗 Correlation analysis
+- 📉 Linear regression modeling
+- ✅ Model diagnostics and validation
+- 🤖 Predictive analytics: Linear Regression & K-Nearest Neighbors (KNN)
+
+#### **Technical Stack:**
+- **Language:** R
+- **Visualization:** ggplot2
+- **Concepts:** Statistical modeling, predictive analytics, healthcare data analysis
+
+**Repository:** [GitHub - Doctor-Patient Communication Analysis](https://github.com/pasindi15)
+
+</details>
 
 ---
 
@@ -645,6 +745,7 @@ University first year, 2nd semester group project demonstrating foundational web
 ![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
 
@@ -657,6 +758,7 @@ University first year, 2nd semester group project demonstrating foundational web
 ![Express](https://img.shields.io/badge/Express-Advanced-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-Intermediate-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-Intermediate-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 </div>
 
@@ -694,6 +796,21 @@ University first year, 2nd semester group project demonstrating foundational web
 
 </div>
 
+### **Data Engineering & BI**
+
+<div align="center">
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-Advanced-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-Intermediate-CC2927?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Learning-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-Learning-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-Learning-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-Learning-00ADD8?style=for-the-badge)
+
+</div>
+
 ### **AI/ML & Tools**
 
 <div align="center">
@@ -720,6 +837,7 @@ University first year, 2nd semester group project demonstrating foundational web
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-Deployed-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -779,9 +897,11 @@ University first year, 2nd semester group project demonstrating foundational web
 
 ### 🎯 **Expertise Areas**
 - ✅ Enterprise AI Systems (RAG, LLM)
-- ✅ Full-Stack Web Development (MERN, Flask)
+- ✅ Data Warehousing & BI (SSAS, Power BI, Tableau)
+- ✅ Full-Stack Web Development (MERN, Flask, Laravel)
 - ✅ Android Mobile Development (Kotlin)
 - ✅ Financial Intelligence & Analytics
+- ✅ Statistical Modeling & Predictive Analytics (R)
 - ✅ Compliance & Security Systems
 - ✅ UI/UX Design (Figma)
 - ✅ System Architecture & Design
@@ -791,10 +911,11 @@ University first year, 2nd semester group project demonstrating foundational web
 <td width="50%">
 
 ### 📊 **Project Statistics**
-- 📦 **Total Projects:** 10+ completed
+- 📦 **Total Projects:** 13+ completed
 - 💻 **Lines of Code:** 50,000+
 - 🚀 **Production Apps:** 3 live
 - 📱 **Mobile Apps:** 2 Android apps
+- 📊 **Data Engineering & BI Projects:** 2
 - 🎨 **UI/UX Projects:** 2 Figma designs
 - 🤖 **AI Projects:** 1 enterprise system (100% complete)
 - 👥 **Team Projects:** 3 collaborative
