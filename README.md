@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=pasindi15&label=Profile%20Views&color=6e56cf&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/badge/Flagship%20Projects-4-a855f7?style=for-the-badge" alt="flagship"/>
-<img src="https://img.shields.io/badge/Total%20Projects-13%2B-blue?style=for-the-badge" alt="projects"/>
+<img src="https://img.shields.io/badge/Total%20Projects-30%2B-blue?style=for-the-badge" alt="projects"/>
 <img src="https://img.shields.io/badge/BRAINO-100%25%20COMPLETE-success?style=for-the-badge" alt="braino"/>
 <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge" alt="status"/>
 
