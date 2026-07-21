@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:A855F7&height=240&section=header&text=Pasindi%20Alawatta&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%7C%20AI%20Systems%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:A855F7&height=240&section=header&text=Pasindi%20Alawatta&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Cloud%20Engineer&descAlignY=56&descSize=20" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=pasindi15&label=Profile%20Views&color=6e56cf&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/badge/Flagship%20Projects-4-a855f7?style=for-the-badge" alt="flagship"/>
 <img src="https://img.shields.io/badge/Total%20Projects-30%2B-blue?style=for-the-badge" alt="projects"/>
 <img src="https://img.shields.io/badge/BRAINO-100%25%20COMPLETE-success?style=for-the-badge" alt="braino"/>
 <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge" alt="status"/>
+<img src="https://img.shields.io/badge/Cloud-Kubernetes%20%7C%20Docker%20%7C%20Terraform%20%7C%20AWS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="cloud"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Enterprise+AI+Systems+Engineer;Building+Enterprise+Data+Lakehouses+%F0%9F%8F%A6+%7C+Bronze+%E2%86%92+Silver+%E2%86%92+Gold;Banking-Grade+PII+Tokenization+%26+Privacy+Engineering+%F0%9F%94%90;RAG+%2B+LangGraph+Multi-Agent+AI+Copilots+%F0%9F%A4%96;MERN+%7C+React+%7C+Next.js+%7C+Flask+%7C+FastAPI;Android+%7C+Kotlin+%7C+Java+%7C+UI%2FUX+%7C+Figma;Data+Engineer+Intern+%40+Bank+of+Ceylon+(BOC)" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&width=900&height=230&lines=Data+Engineer+%7C+AI%2FML+Engineer+%7C+Cloud+Engineer;Building+Enterprise+Data+Lakehouses+%F0%9F%8F%A6+%7C+Bronze+%E2%86%92+Silver+%E2%86%92+Gold;Banking-Grade+PII+Tokenization+%26+Privacy+Engineering+%F0%9F%94%90;RAG+%2B+LangGraph+Multi-Agent+AI+Copilots+%F0%9F%A4%96;Cloud+%26+DevOps%3A+Kubernetes+%7C+Docker+%7C+Terraform+%7C+AWS+%E2%98%81%EF%B8%8F;Data+Stack%3A+Kafka+%7C+Spark+%7C+Airflow+%7C+dbt+%7C+Trino+%E2%9A%99%EF%B8%8F;Data+Engineer+Intern+%40+Bank+of+Ceylon+(BOC)" alt="Typing SVG"/>
 
 </div>
 
@@ -41,24 +42,26 @@
 
 ## 🚀 About Me
 
-> **Building enterprise-grade solutions** across AI systems, full-stack web applications, and data warehouse solutions — designed and shipped end-to-end, not prototyped.
+> **Data, AI/ML, and Cloud Engineer** building enterprise-grade solutions across data lakehouses, AI systems, and cloud infrastructure — designed and shipped end-to-end, not prototyped.
 
 - 🧠 **Currently Building:** Two independent, production-shaped **banking data lakehouses** — [AtlasDLH-Bank](#-1--atlasdlh-bank--enterprise-banking-data-lakehouse) (Docker-native) and [AtlasFlow](#%EF%B8%8F-2--atlasflow--cloud-native-aiml-data-platform) (cloud-native)
 - 🎯 **Latest Achievement:** [BRAINO](https://github.com/pasindi15/braino) — Enterprise AI Business Operations Manager, **✅ 100% COMPLETE**, 30/30 parts, **live in production**
 - 💼 **Current Internship:** Data Engineer Intern at **Bank of Ceylon (BOC)** — Head Office, contributing to an enterprise-scale Data Lakehouse implementation
+- 💼 **Working as:** Data Engineer · AI/ML Engineer · Cloud Engineer
 - 💼 **Specializing in:**
   - **Data Engineering:** Apache Kafka, Debezium CDC, Apache Spark, Delta Lake, dbt, Apache Airflow, Trino, medallion architecture (Bronze → Silver → Gold)
-  - **AI/ML:** RAG Systems, LangGraph multi-agent orchestration, LLM Integration, Vector Databases, MLflow model registries, Financial AI
+  - **Cloud & DevOps:** Kubernetes, Docker, Terraform (IaC), AWS, BigQuery, GitHub Actions CI/CD, HPA autoscaling, Prometheus/Grafana monitoring
+  - **AI/ML:** RAG Systems, LangGraph multi-agent orchestration, LLM Integration, Vector Databases, MLflow model registries, PyTorch, Financial AI
   - **Security & Compliance:** PII tokenization, Fernet encryption, JWT RBAC, audited AML-grade detokenization workflows
   - **Full-Stack:** MERN, React, Next.js, Flask, FastAPI, Node.js, React Native/Expo
   - **Mobile:** Android (Kotlin/Java), Material Design, Responsive UI
   - **UI/UX:** Figma, User-Centered Design, Prototyping
   - **Data Warehousing & BI:** Star Schema, SSAS, Power BI, Tableau, Statistical Analytics with R
-- 🔭 **Tech Arsenal:** Python, TypeScript, JavaScript, Kotlin, Java, SQL, R, PostgreSQL, MongoDB, Kafka, Spark, Kubernetes
-- 💡 **Portfolio:** 13+ completed projects spanning enterprise data platforms, AI systems, web, mobile, data engineering, and design
+- 🔭 **Tech Arsenal:** Python, TypeScript, JavaScript, Kotlin, Java, SQL, R, PostgreSQL, MongoDB, Kafka, Spark, Kubernetes, Docker, Terraform, AWS
+- 💡 **Portfolio:** 13+ completed projects spanning enterprise data platforms, AI/ML systems, cloud infrastructure, web, mobile, and design
 - 🌐 **Live / Deployed Projects:** BRAINO (Production), AtlasDLH-Bank, AtlasFlow, SafeZone DMS, Travellers Platform, SkyWay, TripMate, Portfolio
-- 👯 **Open to:** Data Engineer, AI/ML Engineer, Associate Software Engineer, Full-Stack Engineer roles
-- 💬 **Ask me about:** Medallion architectures, PII tokenization, RAG systems, LangGraph agents, MERN stack, Android development, system architecture, UI/UX design
+- 👯 **Open to:** Data Engineer, AI/ML Engineer, Cloud Engineer, Data Platform Engineer roles
+- 💬 **Ask me about:** Medallion architectures, PII tokenization, RAG systems, LangGraph agents, Kubernetes deployments, CI/CD pipelines, MERN stack, system architecture
 - 📫 **Contact:** pasindialawatta@gmail.com
 - ⚡ **Fun fact:** Built an enterprise AI system with 34,500+ lines of code in 8 weeks — and then went on to build two full banking data lakehouses.
 
@@ -70,6 +73,7 @@
 | **AI systems that ship** | 3 production-shaped AI copilots (RAG + LLM) across different stacks — Ollama, Groq, LangGraph |
 | **Security-first engineering** | Token vaults, Fernet encryption, JWT RBAC, and audit-logged detokenization workflows modeled on real AML compliance flows |
 | **End-to-end ownership** | From Terraform/IaC and CI/CD to Kubernetes deployment to the dashboard a business user clicks |
+| **Cloud & platform engineering** | Docker Compose (14+ services), Kubernetes with HPA autoscaling, Terraform-provisioned BigQuery, GitHub Actions CI/CD, Prometheus/Grafana monitoring |
 | **Documentation discipline** | Every flagship project ships with phase checklists, architecture diagrams, and verification scripts |
 
 <br/>
@@ -1321,7 +1325,7 @@ Doing it in this order means the image is never a broken link while the branch d
 
 ## 🎯 Career Objectives
 
-> Seeking challenging opportunities in **Data Engineering**, **AI/ML Engineering**, **Full-Stack Development**, or **Technical Architecture** roles where I can leverage my expertise in building production-grade data platforms, enterprise AI solutions, and scalable full-stack applications.
+> Working as a **Data / AI / ML / Cloud Engineer**, seeking opportunities in **Data Engineering**, **AI/ML Engineering**, **Cloud Engineering**, or **Data Platform Architecture** roles where I can leverage my expertise in building production-grade data platforms, enterprise AI solutions, and cloud-native infrastructure.
 
 ### What I bring:
 - ✅ Proven ability to build complex enterprise systems from scratch (two full banking data lakehouses, BRAINO - 34,500+ lines)
