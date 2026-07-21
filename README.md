@@ -1244,34 +1244,21 @@ University first year, 2nd semester group project demonstrating foundational web
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindi15&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" width="95%"/>
 </div>
 
-### 🏆 GitHub Trophies
+### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pasindi15&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="95%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasindi15/pasindi15/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pasindi15/pasindi15/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pasindi15/pasindi15/output/github-contribution-grid-snake.svg" width="95%"/>
+</picture>
+
 </div>
 
-> ⚠️ **If the trophies above don't render:** this widget is served by a free, community-hosted Vercel instance (`github-profile-trophy.vercel.app`) that occasionally cold-starts or rate-limits. It usually loads fine on a page refresh — there's nothing wrong with your markdown. If it stays broken for more than a day or two, swap the URL for your own fork deployed on Vercel, or replace the block with the plain badge row below as a safe fallback:
->
-> `![Trophies](https://img.shields.io/badge/GitHub-Trophies%20Unavailable-lightgrey?style=for-the-badge&logo=github)`
+> Generated automatically every 24 hours (and on every push to `main`) by the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action in `.github/workflows/snake.yml` — no manual updates needed.
 
-<details>
-<summary>🐍 Contribution Snake (optional — click to expand for setup)</summary>
-
-<br/>
-
-This repo doesn't have the snake workflow yet, so no broken image is embedded here. To enable it:
-
-1. Create `.github/workflows/snake.yml` in **this** profile repo (`pasindi15/pasindi15`) with the [`platane/snk`](https://github.com/Platane/snk) action.
-2. On first run it pushes an `output` branch containing `github-contribution-grid-snake.svg`.
-3. Once that branch exists, add this line back into your README:
-
-```md
-![snake gif](https://raw.githubusercontent.com/pasindi15/pasindi15/output/github-contribution-grid-snake.svg)
-```
-
-Doing it in this order means the image is never a broken link while the branch doesn't exist yet.
-
-</details>
+---
 
 ### 🚀 Deployment Status
 
