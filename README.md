@@ -113,6 +113,12 @@
   ├── BoBo ── Phases 1, 2, 5 complete · 3, 4, 6 in progress
   │       Cross-border retail platform · monorepo · mobile + web + API
   │
+  ├── RailSense AI ── Team Leader & M2 · multi-agent railway intelligence
+  │       Delay prediction · Gemini + RAG operations assistant · RBAC control room
+  │
+  ├── CheckInIQ ── M1 · hotel cancellation prediction
+  │       XGBoost (locked-test ROC-AUC 0.919) · FastAPI + TreeSHAP · evaluation harness
+  │
   └── Data Warehousing & BI, Full-Stack, Mobile, and UI/UX projects (10+)
           NYHospitalDW · Financial Tracker · Doctor-Patient Analysis · SafeZone DMS ·
           Travellers Platform · SkyWay · TripMate · Sky Mountain · Wellness Tracker ·
@@ -680,6 +686,81 @@ PENDING → CONFIRMED → PROCESSING → SHIPPED → OUT_FOR_DELIVERY → DELIVE
 
 ## 💼 Other Notable Projects
 
+### 🚆 RailSense AI - Multi-Agent Railway Intelligence Platform
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20scikit--learn%20%7C%20Gemini%20%7C%20Supabase-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Team%20Leader%20%26%20M2-a855f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-SLIIT%20IT3041%20Team%20Project-blue?style=for-the-badge" />
+</div>
+
+**Multi-agent AI platform for Sri Lanka Railways**: four FastAPI agents (passenger assistant, operations and delay prediction, booking and fraud security, maintenance) working through one JWT-secured hub and one shared train registry. Led a team of 4 and built the **M2 Operations & Delay Prediction agent**.
+
+<details>
+<summary><b>🔍 My Contributions (M2) & Tech Details (click to expand)</b></summary>
+
+#### **What I built:**
+- 📈 **Delay Prediction:** GradientBoostingRegressor with exact historical lookup first. Trained on 3,900 records: **MAE 2.25 min, RMSE 2.84 min, R² 0.894**. Includes feature importance, confidence labels, retraining with archived versions and rollback
+- 🚉 **Live Journey Tracker:** Station-by-station timetable (intermediate times from track distance), live position on the Asia/Colombo clock, correct overnight handling. Verified map incidents delay every later stop, sized by retrieving similar past incidents
+- 🧠 **NLP & Retrieval:** Passenger query understanding (intent rules + TF-IDF fallback for typos, NER for stations, trains and times). Incident classification (**100% on 400 records**), extractive summarisation, pgvector + TF-IDF retrieval (**P@1 1.000 / P@3 1.000** on the team set; 0.875 P@1 in the independent audit)
+- 🤖 **Operations Assistant (LLM + RAG):** Gemini function calling over seven role-filtered data tools, a number guard that rejects any figure or ID not in the retrieved evidence, fixed refusal messages, per-user history and technique badges (LLM · NLP · IR · RAG · ML · Explainable AI)
+- 🛡️ **Control Room & Admin Console:** KPIs, heatmaps, model metrics, officer RBAC (bcrypt, signed expiring tokens, last-admin lock-out), audit explorer, live health (Supabase, Hub, Upstash), admin-only incident approval
+- 🔁 **Data Pipeline:** Re-runnable corpus refresh that upserts to Supabase and indexes new notes in pgvector
+- 🧪 **Testing:** 57 automated tests plus RBAC and cross-agent integration tests
+
+#### **Team-level scope:**
+- 4 agents + gateway, JWT-signed inter-agent messaging, one launcher (`start.py`), multilingual passenger chat (English, Sinhala, Tamil), deterministic booking with QR tickets, fraud screening, maintenance intelligence
+- Independent security and retrieval audit published alongside the team's own results
+
+#### **Technical Stack:**
+- **Backend:** Python | FastAPI | Uvicorn
+- **ML/NLP:** scikit-learn | TF-IDF | sentence-transformers (all-MiniLM-L6-v2)
+- **LLM:** Google Gemini (function calling)
+- **Data:** Supabase PostgreSQL + pgvector | Upstash Redis pub/sub
+- **Security:** bcrypt | JWT | bleach | RBAC
+
+**Repository:** [GitHub - RailSense AI](https://github.com/pasindi15/RailSence-AI)
+
+</details>
+
+---
+
+### 🏨 CheckInIQ - Hotel Booking Cancellation Prediction
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-XGBoost%20%7C%20FastAPI%20%7C%20SHAP-EE4C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Locked%20Test-ROC--AUC%200.919-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-SLIIT%20IT3051%20Team%20Project-blue?style=for-the-badge" />
+</div>
+
+**End-to-end cancellation-risk system** on 119,390 real hotel bookings. A scikit-learn pipeline feeds a FastAPI backend and a front-desk web app that scores each reservation at booking time and explains why. I was **M1**: evaluation framework, final XGBoost model, API core and the first frontend.
+
+<details>
+<summary><b>🔍 My Contributions (M1) & Tech Details (click to expand)</b></summary>
+
+#### **What I built:**
+- 🔒 **Leakage Control:** Identified three leakage columns and enforced the ban with `assert_no_leakage()`. Flagged parking and deposit type as suspects and measured them with ablations
+- 🧪 **Evaluation Harness:** Stratified 5-fold CV, time-aware validation (2015-16 → 2017), ROC/PR curves, run logging (74 experiments) and a locked test set that opens only once via `final=True`
+- 🚀 **XGBoost Modelling:** Two-stage random search: **CV ROC-AUC 0.912 ± 0.002**. **Locked test ROC-AUC 0.919**, recall 0.803 at the 0.35 alert threshold. Best of 5 algorithms on both random and time-based splits
+- 🔬 **Ablation Studies:** 20 runs across 4 model families. Tuned model loses only 0.0005 without deposit type
+- ⚙️ **FastAPI Service:** `/health`, `/schema`, `/predict` with start-up model validation, graceful 503 handling, a date-to-feature adapter, and per-booking **TreeSHAP** top-5 explanations in plain words. API-vs-pipeline parity test over 60 bookings; ~0.3 s median latency
+- 🖥️ **Frontend:** Original single-page app (probability gauge, risk badge, factor bars, API client with typed errors) and the **Model Insights** tab (leaderboard, model cards, scorecard, locked-test panel)
+- 📝 **Testing & Docs:** 86 automated tests, report chapters 1-3 and the evaluation chapter, 12 presentation slides
+
+#### **Technical Stack:**
+- **ML:** Python | pandas | scikit-learn | XGBoost | SHAP (TreeSHAP) | imbalanced-learn
+- **Backend:** FastAPI | Uvicorn | SQLite
+- **Frontend:** JavaScript | HTML | CSS
+- **Quality:** pytest | Git/GitHub PR reviews
+
+**Repository:** [GitHub - CheckInIQ](https://github.com/pasindi15/CheckInIQ)
+
+</details>
+
+---
+
 ### 🌊 SafeZone DMS - Disaster Management System
 
 <div align="center">
@@ -1191,6 +1272,11 @@ University first year, 2nd semester group project demonstrating foundational web
 ![Vector DB](https://img.shields.io/badge/Vector_DB-Expert-FF6B6B?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Pipeline-Expert-10B981?style=for-the-badge)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-Advanced-FFD21E?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Advanced-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Advanced-EE4C2C?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Intermediate-7C3AED?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-Advanced-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![pgvector](https://img.shields.io/badge/Supabase_pgvector-Intermediate-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -1302,8 +1388,8 @@ University first year, 2nd semester group project demonstrating foundational web
 - 🏦 **Data Lakehouses Built:** 2 (Docker-native + cloud-native)
 - 📊 **Data Engineering & BI Projects:** 5
 - 🎨 **UI/UX Projects:** 2 Figma designs
-- 🤖 **AI Copilot Systems:** 3 (Ollama, Groq, LangGraph)
-- 👥 **Team Projects:** 3 collaborative
+- 🤖 **AI Copilot Systems:** 4 (Ollama, Groq, LangGraph, Gemini)
+- 👥 **Team Projects:** 5 collaborative
 - 🏆 **Lab Scores:** 10/10 (Wellness Tracker)
 
 </td>
